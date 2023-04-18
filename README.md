@@ -48,10 +48,10 @@ Reemplace los valores de `MYSQL_USER`, `MYSQL_PASSWORD`, `MYSQL_DATABASE` con lo
 
 ### Ejecutar la aplicación
 
-Para ejecutar la aplicación, abra una terminal en la carpeta del proyecto y ejecute el comando:
+Para ejecutar la aplicación, abra una terminal en la carpeta del proyecto y ejecute el comando (uso de nodemon):
 
 ```
-node index.js
+npm run dev
 ```
 
 La aplicación debería estar disponible en `http://localhost:3000`.
